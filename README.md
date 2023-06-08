@@ -1,7 +1,7 @@
-![banner1|690x38](upload://hNXGJQiXnTRCoiVLiP00V90sA4o.jpeg)
+![Cigar_Job_1-01](https://github.com/abdullasadi/kael-cigar/assets/17822126/d26ee07c-5d6d-4008-afef-ae29c8d37cca)
+
 ### Fivem Custom Cigar Job By Kael Team
 
-![banner2|690x38](upload://qOCCdW7F51qCAeTU8FsxDgMLCDu.jpeg)
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/qbcore-framework/qb-target)
@@ -50,7 +50,6 @@ Add the item images to your inventory script
 - [Discord](https://discord.gg/JwWANh8EY5)
 - [Tebex](https://kael.tebex.io/)
 
-![banner3|690x38](upload://dVqwhKHzHsJ1eeQpxCz3GaTkjyG.jpeg)
 ## More From Kael Scripts
 - [Illegal Cargo Delivery](https://kael.tebex.io/package/5642002)
 - [Pearls Job](https://kael.tebex.io/package/5672502)
