@@ -1,5 +1,5 @@
 Config = {
-    Debug = true,
+    Debug = false,
     Core = 'qb-core',
     Target = 'qb-target',
     Menu = 'qb-menu',
@@ -25,7 +25,7 @@ Config.WeedSettings = {
     },
     MinZ = 31.24617767334,
     MaxZ = 60.241771697998,
-    Debug = true,
+    Debug = false,
 
     PlantSpawns = {
         vector3(1067.47, 4266.23, 37.59),
